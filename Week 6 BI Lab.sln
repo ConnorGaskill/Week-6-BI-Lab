@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Week 6 BI Lab", "Week 6 BI Lab\Week 6 BI Lab.rptproj", "{0BB45293-BD7E-5EC3-C292-7FA86878A0FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB45293-BD7E-5EC3-C292-7FA86878A0FF}.Debug|Default.ActiveCfg = Debug
+		{0BB45293-BD7E-5EC3-C292-7FA86878A0FF}.Debug|Default.Build.0 = Debug
+		{0BB45293-BD7E-5EC3-C292-7FA86878A0FF}.Debug|Default.Deploy.0 = Debug
+		{0BB45293-BD7E-5EC3-C292-7FA86878A0FF}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{0BB45293-BD7E-5EC3-C292-7FA86878A0FF}.DebugLocal|Default.Build.0 = DebugLocal
+		{0BB45293-BD7E-5EC3-C292-7FA86878A0FF}.Release|Default.ActiveCfg = Release
+		{0BB45293-BD7E-5EC3-C292-7FA86878A0FF}.Release|Default.Build.0 = Release
+		{0BB45293-BD7E-5EC3-C292-7FA86878A0FF}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E59DECE-CBB1-4BE3-B80C-795374D68DED}
+	EndGlobalSection
+EndGlobal
